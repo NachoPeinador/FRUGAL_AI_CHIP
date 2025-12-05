@@ -43,7 +43,7 @@ Este repositorio aloja los dos artículos científicos (*Papers*) y el código q
 * `Papers/`: Manuscritos científicos.
     * **Frugal_AI_Chip.pdf:** Arquitectura hardware, análisis de Yield y Static Slicing.
     * **Frugal_FL.pdf:** Extensión para Aprendizaje Federado, análisis del Gap de Precisión y soluciones Non-IID.
-* `Source_Latex/`: Código fuente LaTeX de ambos artículos.
+    * **Source_Latex**: Código fuente LaTeX de ambos artículos.
 * `Notebooks/`:
     * **Frugal_AI_Suite_Completa.ipynb:** El experimento central. Un notebook narrativo e interactivo que ejecuta secuencialmente:
         1.  Validación matemática del Isomorfismo Matricial.
