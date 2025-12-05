@@ -1,8 +1,3 @@
-Aquí tienes el contenido formateado y optimizado para una celda de texto de Google Colab. He estructurado la información utilizando tablas para las métricas, bloques de código para las citas BibTeX y formato LaTeX para las expresiones matemáticas, garantizando una presentación académica y profesional.
-
-Copia el siguiente bloque y pégalo en una celda de **Texto**:
-
-````markdown
 # FrugalAI & FrugalFL: Arquitectura de Silicio Modular y Aprendizaje Federado para el Edge
 
 **Autor:** José Ignacio Peinador Sala
