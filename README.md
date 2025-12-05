@@ -119,5 +119,3 @@ Si utiliza esta arquitectura o los resultados experimentales en su investigació
 
 Este trabajo demuestra que no necesitamos chips más complejos y caros para resolver los problemas del mundo real. La combinación inteligente de silicio abundante y software eficiente es el camino hacia una IA sostenible y omnipresente.
 
-```
-```
