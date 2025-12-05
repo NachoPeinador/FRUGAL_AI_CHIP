@@ -23,7 +23,7 @@ Combinando hardware modular de bajo coste (nodos maduros de **28nm**) con algori
 
 ## 🚀 Hitos de Validación: Suite Experimental
 
-La arquitectura ha sido sometida a una batería exhaustiva de pruebas (disponibles en los Notebooks), validando tanto la viabilidad física como la algorítmica.
+La arquitectura ha sido sometida a una batería exhaustiva de pruebas (disponibles en los Notebooks), validando tanto la viabilidad física, algorítmica, económica y de sostenibilidad.
 
 | Métrica Crítica | Resultado Validado | Contexto |
 | :--- | :--- | :--- |
