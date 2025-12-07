@@ -89,5 +89,5 @@ This Code of Conduct may be updated periodically. The latest version will always
 
 ---
 
-*Last Updated: December 2024*  
+*Last Updated: December 2025*  
 *By participating in this project, you agree to abide by this Code of Conduct.*
