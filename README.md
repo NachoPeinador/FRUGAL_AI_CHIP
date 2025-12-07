@@ -5,6 +5,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)]()
 [![Status](https://img.shields.io/badge/Status-Research_Complete-brightgreen.svg)]()
 [![Papers](https://img.shields.io/badge/📄-1_Papers-yellow.svg)]()
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?style=flat&logo=Jupyter)](https://colab.research.google.com/github/NachoPeinador/Espectro-Modular-Pi/blob/main/Notebooks/Frugal_AI_Completa_Suite.ipynb)
 
 **Autor**: José Ignacio Peinador Sala
 **Contacto**: joseignacio.peinador@gmail.com
