@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)]()
 [![Status](https://img.shields.io/badge/Status-Research_Complete-brightgreen.svg)]()
-[![Papers](https://img.shields.io/badge/📄-2_Papers-yellow.svg)]()
+[![Papers](https://img.shields.io/badge/📄-1_Papers-yellow.svg)]()
 
 **Autor**: José Ignacio Peinador Sala
 **Contacto**: joseignacio.peinador@gmail.com
