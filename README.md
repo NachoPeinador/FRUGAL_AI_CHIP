@@ -66,8 +66,7 @@ FrugalAI desafía el dogma del "**rendimiento a cualquier precio**" en la indust
 ```
 Papers/
 ├── Frugal_AI_Chip.pdf          # Arquitectura hardware y análisis económico
-├── Frugal_Privacy.pdf          # Privacidad por diseño y análisis de gaps
-└── Source_Latex/               # Código fuente completo
+└── Frugal_AI_Chip.tex          # Código Latex completo
 
 Notebooks/
 ├── Frugal_AI_Complete_Suite.ipynb    # Validación end-to-end:
