@@ -158,23 +158,3 @@ Para consultas técnicas, colaboraciones de investigación o licencias comercial
   year={2025}
 }
 ````
-
-**Federated Learning:**
-
-```bibtex
-@article{peinador2025frugalfl,
-  title={FrugalFL: Cerrando el Gap de Precisión en Aprendizaje Federado sobre Hardware Edge Desagregado},
-  author={Peinador Sala, J. I.},
-  journal={arXiv preprint},
-  year={2025}
-}
-```
-
------
-
-## 🔬 Ciencia Independiente y Abierta
-
-> *"La complejidad es el enemigo de la fiabilidad. La simplicidad es la máxima sofisticación."*
-
-Este trabajo demuestra que no necesitamos chips más complejos y caros para resolver los problemas del mundo real. La combinación inteligente de silicio abundante y software eficiente es el camino hacia una IA sostenible y omnipresente.
-
