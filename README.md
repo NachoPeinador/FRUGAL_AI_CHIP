@@ -83,21 +83,6 @@ Notebooks/
 Images/                         # Figuras y visualizaciones
 ```
 
-## ⚖️ Modelo de Licenciamiento Dual
-
-[![Non Commercial Use](https://img.shields.io/badge/🔄-Non_Commercial_Use-blue)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
-[![Commercial License Required](https://img.shields.io/badge/💼-Commercial_License_Required-red)](mailto:joseignacio.peinador@gmail.com)
-
-### Para Investigación y Educación
-
-* **Licencia**: [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)
-* **Permite**: Uso académico, investigación no comercial, proyectos personales
-* **Requiere**: Atribución y mantenimiento de esta licencia
-
-### Para Uso Comercial
-
-* **Contacto exclusivo**: joseignacio.peinador@gmail.com
-* **Nota**: La fabricación de hardware basado en esta arquitectura requiere acuerdo de licencia.
 
 ---
 
@@ -169,5 +154,39 @@ Para consultas técnicas, colaboraciones de investigación o licencias comercial
 * **Email**: joseignacio.peinador@gmail.com
 * **LinkedIn**: Perfil profesional
 * **Twitter/X**: @tu-usuario
+
+---
+
+## ⚖️ Modelo de Licenciamiento Dual
+
+[![Uso No Comercial](https://img.shields.io/badge/🔄-Uso_No_Comercial-blue)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![Licencia Comercial Requerida](https://img.shields.io/badge/💼-Licencia_Comercial_Requerida-red)](./COPYRIGHT.md)
+[![Ver Restricciones](https://img.shields.io/badge/⚠️-Ver_Restricciones-important)](./COPYRIGHT.md)
+
+Este proyecto utiliza un **Modelo de Licenciamiento Dual**:
+
+### 🔬 Para Investigación y Educación
+* **Licencia**: [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+* **Permitido**: Investigación académica, uso educativo, proyectos personales
+* **Requisitos**: Atribución y preservación de la licencia
+* **Términos Completos**: Ver archivo [LICENSE](./LICENSE)
+
+### 💼 Para Uso Comercial
+**Todas las aplicaciones comerciales requieren permiso escrito explícito.**
+
+**El uso comercial incluye:**
+* Fabricación/venta de hardware basado en esta arquitectura
+* Integración en productos o servicios comerciales
+* Consultoría/servicios que utilicen esta propiedad intelectual
+* Aplicaciones militares/de defensa
+* Contratos gubernamentales
+
+**📋 Restricciones Completas**: Ver [COPYRIGHT.md](./COPYRIGHT.md) para términos detallados
+
+**📧 Consultas de Licencia**: joseignacio.peinador@gmail.com  
+*Asunto: "Consulta de Licencia Comercial FrugalAI"*
+
+> **⚠️ Importante**: El uso comercial no autorizado será perseguido legalmente.
+
 
 *Última actualización: Diciembre 2025*
