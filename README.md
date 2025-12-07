@@ -83,20 +83,6 @@ Notebooks/
 Images/                         # Figuras y visualizaciones
 ```
 
-
----
-
-## 📝 Citación
-
-```bibtex
-@article{peinador2025frugalai,
-  title={FrugalAI Chip: Arquitectura Modular Determinista para NPUs de Bajo Coste},
-  author={Peinador Sala, José Ignacio},
-  journal={Repositorio de Investigación Independiente},
-  year={2025},
-  note={Un enfoque de alta eficiencia de capital (CAPEX) para IA desechable}
-}
-```
 ---
 
 ## 🚀 Comenzando
@@ -141,6 +127,20 @@ son bienvenidas y serán consideradas seriamente.
 > "La complejidad es el enemigo de la fiabilidad. Cuando el coste por transistor deja de disminuir, la innovación debe venir de la arquitectura, no de la litografía."
 
 FrugalAI representa un **cambio de paradigma**: en lugar de perseguir nodos más pequeños, optimizamos el rendimiento por dólar invertido mediante **modularidad extrema** y **software determinista**. No es solo otra NPU—es un manifiesto sobre cómo debería evolucionar la industria de semiconductores ante el **fin del escalado de Dennard**.
+
+---
+
+## 📝 Citación
+
+```bibtex
+@article{peinador2025frugalai,
+  title={FrugalAI Chip: Arquitectura Modular Determinista para NPUs de Bajo Coste},
+  author={Peinador Sala, José Ignacio},
+  journal={Repositorio de Investigación Independiente},
+  year={2025},
+  note={Un enfoque de alta eficiencia de capital (CAPEX) para IA desechable}
+}
+```
 
 ---
 
