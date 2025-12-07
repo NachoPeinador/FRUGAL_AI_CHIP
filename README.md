@@ -152,8 +152,8 @@ FrugalAI representa un **cambio de paradigma**: en lugar de perseguir nodos más
 Para consultas técnicas, colaboraciones de investigación o licencias comerciales:
 
 * **Email**: joseignacio.peinador@gmail.com
-* **LinkedIn**: Perfil profesional
-* **Twitter/X**: @tu-usuario
+* **LinkedIn**: 
+* **Twitter/X**: @todos_lumpen
 
 ---
 
