@@ -1,5 +1,11 @@
 FrugalAI Chip: Arquitectura Modular de Silicio para IA Desechable
 
+https://img.shields.io/badge/License-PolyForm_Noncommercial_1.0.0-blue.svg
+https://img.shields.io/badge/Python-3.8%2B-green.svg
+https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg
+https://img.shields.io/badge/Status-Research_Complete-brightgreen.svg
+https://img.shields.io/badge/📄-2_Papers-yellow.svg
+
 Autor: José Ignacio Peinador Sala
 Contacto: joseignacio.peinador@gmail.com
 ORCID: 0009-0008-1822-3452
@@ -15,6 +21,12 @@ Paradigma: En lugar de un chip monolítico complejo y caro, múltiples chiplets 
 ---
 
 📊 Validación Experimental Completa
+
+https://img.shields.io/badge/CAPEX_Efficiency-10.9x-green
+https://img.shields.io/badge/Accuracy_Improvement-%2B4.8%25-blue
+https://img.shields.io/badge/Communication_Overhead-0.05%25-lightgrey
+https://img.shields.io/badge/Carbon_Reduction--91%25-brightgreen
+https://img.shields.io/badge/Transformer_Speedup-21.47x-orange
 
 Dominio Métrica Resultado Implicación
 Económico Eficiencia CAPEX 10.9× FPS/$ vs baseline Democratización del acceso
@@ -97,6 +109,9 @@ jupyter notebook Notebooks/Frugal_AI_Complete_Suite.ipynb
 
 ⚖️ Modelo de Licenciamiento Dual
 
+https://img.shields.io/badge/🔄-Non_Commercial_Use-blue
+https://img.shields.io/badge/💼-Commercial_License_Required-red
+
 Para Investigación y Educación
 
 Licencia: PolyForm Noncommercial 1.0.0
@@ -126,6 +141,8 @@ Nota: La fabricación de hardware basado en esta arquitectura requiere acuerdo d
 
 🔬 Contribuciones
 
+https://img.shields.io/badge/🤝-Contributions_Welcome-green
+
 Este proyecto es fruto de investigación independiente. Las contribuciones en forma de:
 
 · Issues reportando bugs o sugerencias
@@ -146,15 +163,13 @@ FrugalAI representa un cambio de paradigma: en lugar de perseguir nodos más peq
 
 📫 Contacto
 
+https://img.shields.io/badge/📧-joseignacio.peinador@gmail.com-lightgrey
+https://img.shields.io/badge/📚-ORCID_0009--0008--1822--3452-blue
+
 Para consultas técnicas, colaboraciones de investigación o licencias comerciales:
 
 · Email: joseignacio.peinador@gmail.com
 · LinkedIn: Perfil profesional
 · Twitter/X: @tu-usuario
 
-Última actualización: Diciembre 2024  title={FrugalAI Chip: Arquitectura Modular para IA Desechable y Democratización del Silicio},
-  author={Peinador Sala, J. I.},
-  journal={arXiv preprint},
-  year={2025}
-}
-````
+Última actualización: Diciembre 2024
