@@ -1,66 +1,67 @@
-FrugalAI Chip: Arquitectura Modular de Silicio para IA Desechable
+# 🤖 FrugalAI Chip: Arquitectura Modular de Silicio para IA Desechable
 
-https://img.shields.io/badge/License-PolyForm_Noncommercial_1.0.0-blue.svg
-https://img.shields.io/badge/Python-3.8%2B-green.svg
-https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg
-https://img.shields.io/badge/Status-Research_Complete-brightgreen.svg
-https://img.shields.io/badge/📄-2_Papers-yellow.svg
+[![License](https://img.shields.io/badge/License-PolyForm_Noncommercial_1.0.0-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Research_Complete-brightgreen.svg)]()
+[![Papers](https://img.shields.io/badge/📄-2_Papers-yellow.svg)]()
 
-Autor: José Ignacio Peinador Sala
-Contacto: joseignacio.peinador@gmail.com
-ORCID: 0009-0008-1822-3452
-
----
-
-🔍 Visión
-
-FrugalAI desafía el dogma del "rendimiento a cualquier precio" en la industria de semiconductores. Mientras el coste de fabricación en nodos avanzados (3nm) se dispara, demostramos que combinando inteligentemente silicio maduro (28nm) con descomposición algorítmica determinista, podemos lograr eficiencia de capital 10.9× superior para aplicaciones de edge masivo.
-
-Paradigma: En lugar de un chip monolítico complejo y caro, múltiples chiplets simples y económicos coordinados por software.
+**Autor**: José Ignacio Peinador Sala
+**Contacto**: joseignacio.peinador@gmail.com
+**ORCID**: [0009-0008-1822-3452](https://orcid.org/0009-0008-1822-3452)
 
 ---
 
-📊 Validación Experimental Completa
+## 🔍 Visión
 
-https://img.shields.io/badge/CAPEX_Efficiency-10.9x-green
-https://img.shields.io/badge/Accuracy_Improvement-%2B4.8%25-blue
-https://img.shields.io/badge/Communication_Overhead-0.05%25-lightgrey
-https://img.shields.io/badge/Carbon_Reduction--91%25-brightgreen
-https://img.shields.io/badge/Transformer_Speedup-21.47x-orange
+FrugalAI desafía el dogma del "**rendimiento a cualquier precio**" en la industria de semiconductores. Mientras el coste de fabricación en nodos avanzados (3nm) se dispara, demostramos que combinando inteligentemente **silicio maduro (28nm)** con **descomposición algorítmica determinista**, podemos lograr eficiencia de capital **10.9× superior** para aplicaciones de edge masivo.
 
-Dominio Métrica Resultado Implicación
-Económico Eficiencia CAPEX 10.9× FPS/$ vs baseline Democratización del acceso
-Rendimiento Accuracy CIFAR-10 78.86% (vs 74.04% monolítico) El ensemble modular mejora precisión
-Escalabilidad Overhead comunicación 0.05% en ResNet-50 Arquitectura compute-bound
-Robustez Penalización por variabilidad 15.7% (mitigada a 2.1%) Tolerancia a defectos de fabricación
-Sostenibilidad Carbono embebido -91% vs nodo 3nm IA verdaderamente verde
-Extensibilidad Speedup Transformers 21.47× vs implementación naive LLMs ligeros en edge
+> **Paradigma**: En lugar de un chip monolítico complejo y caro, **múltiples chiplets simples y económicos** coordinados por software.
 
 ---
 
-🧩 Innovaciones Nucleares
+## 📊 Validación Experimental Completa
 
-1. Static Slicing: Software-Defined Hardware
+[![CAPEX Efficiency](https://img.shields.io/badge/CAPEX_Efficiency-10.9x-green)](#)
+[![Accuracy Improvement](https://img.shields.io/badge/Accuracy_Improvement-%2B4.8%25-blue)](https://cifar10.org/)
+[![Communication Overhead](https://img.shields.io/badge/Communication_Overhead-0.05%25-lightgrey)](https://en.wikipedia.org/wiki/Overhead_(computing))
+[![Carbon Reduction](https://img.shields.io/badge/Carbon_Reduction--91%25-brightgreen)](https://en.wikipedia.org/wiki/Embodied_energy)
+[![Transformer Speedup](https://img.shields.io/badge/Transformer_Speedup-21.47x-orange)](https://arxiv.org/abs/1706.03762)
 
-· Isomorfismo matricial que elimina necesidad de coherencia de caché (Δ < 10⁻⁶)
-· Compilador determinista que resuelve el enrutamiento en tiempo de compilación
-· Overhead de comunicación despreciable (0.05% en cargas reales)
-
-2. Arquitectura Shared-Nothing Intrínsecamente Privada
-
-· Aislamiento físico de datos en SRAM locales
-· Privacidad por diseño hardware, no por protocolos de software complejos
-· Efecto ensemble natural: +4.8% accuracy en CIFAR-10 por especialización implícita
-
-3. Extensión a Transformers via Local Attention
-
-· Adaptación de atención global a ventanas locales para arquitectura modular
-· Speedup 21.47× vs implementación naive distribuida
-· Democratización de LLMs ligeros en el edge
+| Dominio | Métrica | Resultado | Implicación |
+| :--- | :--- | :--- | :--- |
+| **Económico** | Eficiencia CAPEX | **10.9× FPS/$ vs baseline** | Democratización del acceso |
+| **Rendimiento** | Accuracy CIFAR-10 | **78.86%** (vs 74.04% monolítico) | El ensemble modular mejora precisión |
+| **Escalabilidad** | Overhead comunicación | **0.05%** en ResNet-50 | Arquitectura compute-bound |
+| **Robustez** | Penalización por variabilidad | 15.7% (mitigada a **2.1%**) | Tolerancia a defectos de fabricación |
+| **Sostenibilidad** | Carbono embebido | **-91%** vs nodo 3nm | IA verdaderamente verde |
+| **Extensibilidad** | Speedup Transformers | **21.47×** vs implementación naive | LLMs ligeros en edge |
 
 ---
 
-📁 Estructura del Repositorio
+## 🧩 Innovaciones Nucleares
+
+### 1. Static Slicing: Software-Defined Hardware
+
+* **Isomorfismo matricial** que elimina necesidad de coherencia de caché ($\Delta < 10^{-6}$)
+* Compilador determinista que resuelve el **enrutamiento en tiempo de compilación**
+* Overhead de comunicación despreciable (**0.05%** en cargas reales)
+
+### 2. Arquitectura Shared-Nothing Intrínsecamente Privada
+
+* **Aislamiento físico** de datos en SRAM locales
+* **Privacidad por diseño hardware**, no por protocolos de software complejos
+* Efecto ensemble natural: **+4.8% accuracy** en CIFAR-10 por especialización implícita
+
+### 3. Extensión a Transformers via Local Attention
+
+* Adaptación de atención global a **ventanas locales** para arquitectura modular
+* **Speedup 21.47×** vs implementación naive distribuida
+* Democratización de **LLMs ligeros** en el edge
+
+---
+
+## 📁 Estructura del Repositorio
 
 ```
 Papers/
