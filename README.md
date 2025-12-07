@@ -111,9 +111,10 @@ Images/                         # Figuras y visualizaciones
   year={2025},
   note={Un enfoque de alta eficiencia de capital (CAPEX) para IA desechable}
 }
+```
 ---
 
-🚀 Comenzando
+## 🚀 Comenzando
 
 Prerrequisitos
 
@@ -136,37 +137,37 @@ jupyter notebook Notebooks/Frugal_AI_Complete_Suite.ipynb
 
 ---
 
-🔬 Contribuciones
+## 🔬 Contribuciones
 
-https://img.shields.io/badge/🤝-Contributions_Welcome-green
+[![Contributions Welcome](https://img.shields.io/badge/🤝-Contributions_Welcome-green)](https://github.com/tu-usuario/frugalai-chip/issues)
 
 Este proyecto es fruto de investigación independiente. Las contribuciones en forma de:
 
-· Issues reportando bugs o sugerencias
-· Pull requests con mejoras al código
-· Discusiones sobre extensiones arquitectónicas
+* **Issues** reportando bugs o sugerencias
+* **Pull requests** con mejoras al código
+* **Discusiones** sobre extensiones arquitectónicas
 
 son bienvenidas y serán consideradas seriamente.
 
 ---
 
-🎯 Filosofía de Diseño
+## 🎯 Filosofía de Diseño
 
-"La complejidad es el enemigo de la fiabilidad. Cuando el coste por transistor deja de disminuir, la innovación debe venir de la arquitectura, no de la litografía."
+> "La complejidad es el enemigo de la fiabilidad. Cuando el coste por transistor deja de disminuir, la innovación debe venir de la arquitectura, no de la litografía."
 
-FrugalAI representa un cambio de paradigma: en lugar de perseguir nodos más pequeños, optimizamos el rendimiento por dólar invertido mediante modularidad extrema y software determinista. No es solo otra NPU—es un manifiesto sobre cómo debería evolucionar la industria de semiconductores ante el fin del escalado de Dennard.
+FrugalAI representa un **cambio de paradigma**: en lugar de perseguir nodos más pequeños, optimizamos el rendimiento por dólar invertido mediante **modularidad extrema** y **software determinista**. No es solo otra NPU—es un manifiesto sobre cómo debería evolucionar la industria de semiconductores ante el **fin del escalado de Dennard**.
 
 ---
 
-📫 Contacto
+## 📫 Contacto
 
-https://img.shields.io/badge/📧-joseignacio.peinador@gmail.com-lightgrey
-https://img.shields.io/badge/📚-ORCID_0009--0008--1822--3452-blue
+[![Email](https://img.shields.io/badge/📧-joseignacio.peinador@gmail.com-lightgrey)](mailto:joseignacio.peinador@gmail.com)
+[![ORCID](https://img.shields.io/badge/📚-ORCID_0009--0008--1822--3452-blue)](https://orcid.org/0009-0008-1822-3452)
 
 Para consultas técnicas, colaboraciones de investigación o licencias comerciales:
 
-· Email: joseignacio.peinador@gmail.com
-· LinkedIn: Perfil profesional
-· Twitter/X: @tu-usuario
+* **Email**: joseignacio.peinador@gmail.com
+* **LinkedIn**: Perfil profesional
+* **Twitter/X**: @tu-usuario
 
-Última actualización: Diciembre 2024
+*Última actualización: Diciembre 2025*
