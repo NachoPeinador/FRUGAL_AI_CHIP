@@ -83,6 +83,34 @@ Notebooks/
 Images/                         # Figuras y visualizaciones
 ```
 
+## ⚖️ Modelo de Licenciamiento Dual
+
+[![Non Commercial Use](https://img.shields.io/badge/🔄-Non_Commercial_Use-blue)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![Commercial License Required](https://img.shields.io/badge/💼-Commercial_License_Required-red)](mailto:joseignacio.peinador@gmail.com)
+
+### Para Investigación y Educación
+
+* **Licencia**: [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+* **Permite**: Uso académico, investigación no comercial, proyectos personales
+* **Requiere**: Atribución y mantenimiento de esta licencia
+
+### Para Uso Comercial
+
+* **Contacto exclusivo**: joseignacio.peinador@gmail.com
+* **Nota**: La fabricación de hardware basado en esta arquitectura requiere acuerdo de licencia.
+
+---
+
+## 📝 Citación
+
+```bibtex
+@article{peinador2025frugalai,
+  title={FrugalAI Chip: Arquitectura Modular Determinista para NPUs de Bajo Coste},
+  author={Peinador Sala, José Ignacio},
+  journal={Repositorio de Investigación Independiente},
+  year={2025},
+  note={Un enfoque de alta eficiencia de capital (CAPEX) para IA desechable}
+}
 ---
 
 🚀 Comenzando
@@ -104,38 +132,6 @@ git clone https://github.com/tu-usuario/frugalai-chip.git
 cd frugalai-chip
 pip install -r Notebooks/requirements.txt
 jupyter notebook Notebooks/Frugal_AI_Complete_Suite.ipynb
-```
-
----
-
-⚖️ Modelo de Licenciamiento Dual
-
-https://img.shields.io/badge/🔄-Non_Commercial_Use-blue
-https://img.shields.io/badge/💼-Commercial_License_Required-red
-
-Para Investigación y Educación
-
-Licencia: PolyForm Noncommercial 1.0.0
-Permite: Uso académico, investigación no comercial, proyectos personales
-Requiere: Atribución y mantenimiento de esta licencia
-
-Para Uso Comercial
-
-Contacto exclusivo: joseignacio.peinador@gmail.com
-Nota: La fabricación de hardware basado en esta arquitectura requiere acuerdo de licencia.
-
----
-
-📝 Citación
-
-```bibtex
-@article{peinador2025frugalai,
-  title={FrugalAI Chip: Arquitectura Modular Determinista para NPUs de Bajo Coste},
-  author={Peinador Sala, José Ignacio},
-  journal={Repositorio de Investigación Independiente},
-  year={2025},
-  note={Un enfoque de alta eficiencia de capital (CAPEX) para IA desechable}
-}
 ```
 
 ---
