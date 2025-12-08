@@ -57,13 +57,18 @@ joseignacio.peinador@gmail.com}
 
 % --- ABSTRACT ---
 \begin{abstract}
+The semiconductor industry faces a critical economic barrier: while AI demand grows exponentially, the cost per transistor in advanced nodes (\SI{3}{nm}) has stopped decreasing at the historical rate (end of Dennard scaling). This work proposes \textit{FrugalAI Chip}, an architecture that prioritizes capital efficiency (CAPEX) over operational energy efficiency (OPEX), targeting the ''Disposable AI'' niche through a \textit{Shared-Nothing} modular design manufactured in mature nodes (\SI{28}{nm}).
+
+We mathematically validate a matrix decomposition isomorphism ($\Delta < 10^{-5}$) that eliminates the need for cache coherence. Experimentally, the architecture matches the monolithic baseline on MNIST (100.1\% relative performance) and outperforms it by 4.8\% on CIFAR-10 (78.86\% vs 74.04\%) through dynamic padding. Real workload simulations (ResNet-50) show that communication overhead is negligible (0.05\%), while a Monte Carlo analysis ($N=10,000$) quantifies the impact of process variability (''Tail Latency'') as a 15.7\% performance penalty, mitigated through mesochronous interfaces. The industrial cost model reveals a \textbf{17.9$\times$} price reduction compared to monolithic alternatives. Although energy efficiency is lower (0.35$\times$), we defend this penalty based on the massive reduction in manufacturing carbon footprint (''Embodied Carbon'') and a \textbf{10.9$\times$} return in performance per dollar invested.
+
+% --- RESUMEN ---
 La industria de semiconductores enfrenta una barrera económica crítica: mientras la demanda de IA crece exponencialmente, el coste por transistor en nodos avanzados (\SI{3}{nm}) ha dejado de disminuir al ritmo histórico (fin del escalado de Dennard). Este trabajo propone \textit{FrugalAI Chip}, una arquitectura que prioriza la eficiencia de capital (CAPEX) sobre la eficiencia energética operativa (OPEX), atacando el nicho de la ''IA Desechable'' mediante un diseño modular \textit{Shared-Nothing} fabricado en nodos maduros (\SI{28}{nm}).
 
 Validamos matemáticamente un isomorfismo de descomposición matricial ($\Delta < 10^{-5}$) que elimina la necesidad de coherencia de caché. Experimentalmente, la arquitectura iguala al baseline monolítico en MNIST (100.1\% rendimiento relativo) y supera en 4.8\% en CIFAR-10 (78.86\% vs 74.04\%) mediante padding dinámico. Simulaciones de cargas reales (ResNet-50) demuestran que el overhead de comunicación es despreciable (0.05\%), mientras que un análisis de Monte Carlo ($N=10,000$) cuantifica el impacto de la variabilidad de proceso (''Tail Latency'') en una penalización de rendimiento del 15.7\%, mitigada mediante interfaces mesócronas. El modelo de costes industrial revela una reducción de precio de \textbf{17.9$\times$} frente a alternativas monolíticas. Aunque la eficiencia energética es inferior (0.35$\times$), defendemos esta penalización basándonos en la reducción masiva de la huella de carbono de fabricación (''Embodied Carbon'') y un retorno de \textbf{10.9$\times$} en rendimiento por dólar invertido.
 \end{abstract}
 
 \begin{IEEEkeywords}
-NPU Modular, Arquitectura Shared-Nothing, Chiplets, Economía de Semiconductores, CAPEX vs OPEX, Carbono Embebido.
+Modular NPU, Shared-Nothing Architecture, Chiplets, Semiconductor Economics, CAPEX vs OPEX, Embodied Carbon, Disposable AI, Edge Computing, Yield Optimization, Sustainable Semiconductors
 \end{IEEEkeywords}
 
 % --- SECCIÓN 1: INTRODUCCIÓN ---
