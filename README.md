@@ -133,13 +133,8 @@ FrugalAI representa un **cambio de paradigma**: en lugar de perseguir nodos más
 ## 📝 Citación
 
 ```bibtex
-@article{peinador2025frugalai,
-  title={FrugalAI Chip: Arquitectura Modular Determinista para NPUs de Bajo Coste},
-  author={Peinador Sala, José Ignacio},
-  journal={Repositorio de Investigación Independiente},
-  year={2025},
-  note={Un enfoque de alta eficiencia de capital (CAPEX) para IA desechable}
-}
+Peinador Sala, J. I. (2025). FrugalAI Chip: Deterministic Modular Architecture for Low-Cost NPUs, A High Capital Efficiency (CAPEX) Approach for Disposable AI (Versión v1). Zenodo. https://doi.org/10.5281/zenodo.17853543
+
 ```
 
 ---
