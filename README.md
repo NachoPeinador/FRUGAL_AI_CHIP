@@ -101,8 +101,8 @@ jupyter>=1.0
 Ejecutar la Suite Completa
 
 ```bash
-git clone https://github.com/tu-usuario/frugalai-chip.git
-cd frugalai-chip
+git clone https://github.com/NachoPeinador/FRUGAL_AI_CHIP.git
+cd FRUGAL_AI_CHIP
 pip install -r Notebooks/requirements.txt
 jupyter notebook Notebooks/Frugal_AI_Complete_Suite.ipynb
 ```
