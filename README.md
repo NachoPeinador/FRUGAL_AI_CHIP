@@ -111,7 +111,7 @@ jupyter notebook Notebooks/Frugal_AI_Complete_Suite.ipynb
 
 ## 🔬 Contribuciones
 
-[![Contributions Welcome](https://img.shields.io/badge/🤝-Contributions_Welcome-green)](https://github.com/tu-usuario/frugalai-chip/issues)
+[![Contributions Welcome](https://img.shields.io/badge/🤝-Contributions_Welcome-green)](https://github.com/NachoPeinador/FRUGAL_AI_CHIP/issues)
 
 Este proyecto es fruto de investigación independiente. Las contribuciones en forma de:
 
