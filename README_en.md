@@ -1,10 +1,11 @@
 # 🤖 FrugalAI Chip: Modular Silicon Architecture for Disposable AI
 
+[![Read in Spanish](https://img.shields.io/badge/Lang-Leer%20en%20Español-red?style=flat&logoColor=white&color=B31B1B)](https://github.com/NachoPeinador/FRUGAL_AI_CHIP/blob/main/README_es.md)
 [![License](https://img.shields.io/badge/License-PolyForm_Noncommercial_1.0.0-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-green.svg)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)]()
 [![Status](https://img.shields.io/badge/Status-Research_Complete-brightgreen.svg)]()
-[![Papers](https://img.shields.io/badge/📄-Read_Paper-yellow.svg)](./Papers/Frugal_AI_Chip.pdf)
+[![Papers](https://img.shields.io/badge/📄-Read_Paper-yellow.svg)](./Papers/FrugalAI Chip_v2.pdf)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Run_Experiments-F37626.svg?style=flat&logo=Jupyter)](./Notebooks/Frugal_AI_Complete_Suite.ipynb)
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17853543-blue)](https://doi.org/10.5281/zenodo.17853543)
 
@@ -104,6 +105,12 @@ jupyter>=1.0
 
 ### Running the Full Suite
 
+Optión 1:
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/FRUGAL_AI_CHIP/blob/main/Notebooks/Frugal_AI_Complete_Suite.ipynb)
+
+  Option 2:
+
 ```bash
 git clone [https://github.com/NachoPeinador/FRUGAL_AI_CHIP.git](https://github.com/NachoPeinador/FRUGAL_AI_CHIP.git)
 cd FRUGAL_AI_CHIP
@@ -170,7 +177,7 @@ This project uses a **Dual Licensing Model**:
 * **License**: [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 * **Permitted**: Academic research, educational use, personal non-profit projects.
 * **Requirements**: Attribution and preservation of the license.
-* **Full Terms**: See [LICENSE](https://www.google.com/search?q=./LICENSE) file.
+* **Full Terms**: See [LICENSE](https://github.com/NachoPeinador/FRUGAL_AI_CHIP/tree/main?tab=License-1-ov-file) file.
 
 ### 💼 For Commercial Use
 
@@ -184,7 +191,7 @@ This project uses a **Dual Licensing Model**:
 * Military/Defense applications.
 * Government contracts.
 
-**📋 Full Restrictions**: See [COPYRIGHT.md](https://www.google.com/search?q=./COPYRIGHT.md) for detailed terms.
+**📋 Full Restrictions**: See [COPYRIGHT.md](https://github.com/NachoPeinador/FRUGAL_AI_CHIP/blob/main/COPYRIGHT.md) for detailed terms.
 
 **📧 License Inquiries**: joseignacio.peinador@gmail.com
 
