@@ -126,7 +126,7 @@ jupyter notebook Notebooks/Frugal_AI_Complete_Suite.ipynb
 FrugalAI Chip is the physical implementation of the **Modular Isomorphism** theory formalized in our foundational research.
 
 ### 📘 Scientific Basis
-This architecture builds directly upon our paper **"Modular Isomorphism in Artificial Intelligence: From the Ring $\mathbb{Z}/6\mathbb{Z}$ to Shared-Nothing Architecture NPUs"** [[Read Paper]](https://github.com/NachoPeinador/Isomorfismo-Modular-Z-6Z-en-Inteligencia-Artificial/blob/main/Paper/Isomorfismo_IA.pdf).
+This architecture builds directly upon our paper **"Modular Isomorphism in Artificial Intelligence: From the Ring $\mathbb{Z}/6\mathbb{Z}$ to Shared-Nothing Architecture NPUs"** [[Read Paper]](https://github.com/NachoPeinador/Isomorfismo-Modular-Z-6Z-en-Inteligencia-Artificial/blob/main/Paper/AI_Modular_Isomorphism.pdf).
 
 **Key Concepts Implemented:**
 * **Tensor Decomposition Theorem**: Deterministic projection onto six orthogonal subspaces via $\mathbb{Z}/6\mathbb{Z}$
