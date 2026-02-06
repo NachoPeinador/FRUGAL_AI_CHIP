@@ -121,10 +121,6 @@ jupyter notebook Notebooks/Frugal_AI_Complete_Suite.ipynb
 
 ---
 
-Perfecto, aquí tienes una versión más concisa:
-
----
-
 ## 🧠 Theoretical Foundation
 
 FrugalAI Chip is the physical implementation of the **Modular Isomorphism** theory formalized in our foundational research.
