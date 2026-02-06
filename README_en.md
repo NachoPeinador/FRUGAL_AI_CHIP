@@ -196,6 +196,3 @@ This project uses a **Dual Licensing Model**:
 
 *Last update: December 2025*
 
-```
-
-```
