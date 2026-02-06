@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-green.svg)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)]()
 [![Status](https://img.shields.io/badge/Status-Research_Complete-brightgreen.svg)]()
-[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/FRUGAL_AI_CHIP/blob/main/Papers/FrugalAI Chip_v2.pdf)
+[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/FRUGAL_AI_CHIP/blob/main/Papers/FrugalAI_Chip_v2.pdf)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Run_Experiments-F37626.svg?style=flat&logo=Jupyter)](./Notebooks/Frugal_AI_Complete_Suite.ipynb)
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17853543-blue)](https://doi.org/10.5281/zenodo.17853543)
 
