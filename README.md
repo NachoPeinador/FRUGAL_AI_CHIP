@@ -7,7 +7,7 @@
 [![Status](https://img.shields.io/badge/Status-Research_Complete-brightgreen.svg)]()
 [![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/FRUGAL_AI_CHIP/blob/main/Papers/FrugalAI_Chip_v2.pdf)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Run_Experiments-F37626.svg?style=flat&logo=Jupyter)](./Notebooks/Frugal_AI_Complete_Suite.ipynb)
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17853543-blue)](https://doi.org/10.5281/zenodo.17853543)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18508385-blue)](https://doi.org/10.5281/zenodo.18508385)
 
 **Author**: José Ignacio Peinador Sala
 **Contact**: joseignacio.peinador@gmail.com
@@ -152,7 +152,7 @@ If you use this work in your research, please cite it as follows:
   year={2025},
   publisher={Zenodo},
   doi={10.5281/zenodo.17853543},
-  url={[https://doi.org/10.5281/zenodo.17853543](https://doi.org/10.5281/zenodo.17853543)}
+  url={[https://doi.org/10.5281/zenodo.18508385](https://doi.org/10.5281/zenodo.18508385)}
 }
 
 ```
