@@ -121,6 +121,32 @@ jupyter notebook Notebooks/Frugal_AI_Complete_Suite.ipynb
 
 ---
 
+## 🧠 Fundamento Teórico
+
+FrugalAI Chip es la implementación física de la teoría de **Isomorfismo Modular** formalizada en nuestra investigación fundacional.
+
+### 📘 Base Científica
+Esta arquitectura se construye directamente sobre nuestro artículo **"Isomorfismo Modular en Inteligencia Artificial: Del Anillo $\mathbb{Z}/6\mathbb{Z}$ a NPUs de Arquitectura Shared-Nothing"** [[Leer Artículo]](https://github.com/NachoPeinador/Isomorfismo-Modular-Z-6Z-en-Inteligencia-Artificial/blob/main/Paper/Isomorfismo_IA.pdf).
+
+**Conceptos Clave Implementados:**
+* **Teorema de Descomposición Tensorial**: Proyección determinista en seis subespacios ortogonales vía $\mathbb{Z}/6\mathbb{Z}$
+* **Brecha de Generalización Inversa**: Ceguera parcial forzada por hardware como regularizador estructural (+24.37% de generalización)
+* **Modelo de Arbitraje de Nodos**: Economía de 28nm vs 3nm que habilita reducción de coste de 18×
+
+### 🔗 De la Teoría al Silicio
+El marco matemático se traduce directamente en las innovaciones centrales de FrugalAI:
+* El compilador de Static Slicing implementa el operador de proyección modular
+* El diseño de aislamiento de chiplets habilita el paradigma Shared-Nothing
+* 0.05% de sobrecarga de comunicación validado mediante pruebas de isomorfismo tensorial
+
+### 📚 Fundamento Científico Completo
+Para derivaciones matemáticas, demostraciones y validaciones experimentales:
+**[👉 Explora la Investigación Completa](https://github.com/NachoPeinador/Isomorfismo-Modular-Z-6Z-en-Inteligencia-Artificial)**
+
+Este fundamento científico garantiza que FrugalAI no es solo otro diseño de chip, sino un **paradigma escalable** con características de rendimiento matemáticamente predecibles.
+
+---
+
 ## 🔬 Contribuciones
 
 Este proyecto es el resultado de una investigación independiente. Las contribuciones en forma de:
