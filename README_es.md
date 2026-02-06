@@ -7,7 +7,7 @@
 [![Status](https://img.shields.io/badge/Status-Investigación_Completa-brightgreen.svg)]()
 [![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/FRUGAL_AI_CHIP/blob/main/Papers/Frugal_AI_Chip.pdf)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Ejecutar_Experimentos-F37626.svg?style=flat&logo=Jupyter)](./Notebooks/Frugal_AI_Suite_Completa.ipynb)
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17853543-blue)](https://doi.org/10.5281/zenodo.18508385)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18508385-blue)](https://doi.org/10.5281/zenodo.18508385)
 
 **Autor**: José Ignacio Peinador Sala
 **Contacto**: joseignacio.peinador@gmail.com
